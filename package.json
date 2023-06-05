@@ -1,0 +1,21 @@
+{
+  "name": "monakai-vibe",
+  "displayName": "Monakai Vibe",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.78.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Monakai Vibe",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Monakai Vibe-color-theme.json"
+      }
+    ]
+  }
+}
