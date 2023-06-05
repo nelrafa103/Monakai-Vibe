@@ -1,6 +1,9 @@
 {
   "name": "monakai-vibe",
   "displayName": "Monakai Vibe",
+  "repository": {
+    "url": "https://github.com/nelrafa103/Monakai-Vibe.git"
+  },
   "description": "",
   "version": "0.0.1",
   "engines": {
